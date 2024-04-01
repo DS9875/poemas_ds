@@ -7,8 +7,8 @@
         {
             "type": "msedge",
             "request": "launch",
-            "name": "Open nao_sabemos.html",
-            "file": "c:\\projetos_programacao\\web\\poemas_ds\\nao_sabemos.html"
+            "name": "Open eternamente.html",
+            "file": "c:\\projetos_programacao\\web\\poemas_ds\\eternamente.html"
         }
     ]
 }
